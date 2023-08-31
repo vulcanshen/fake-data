@@ -115,9 +115,9 @@ REST 操作:
    - body: 任意 json 物件
 - 刪除資料: `DELETE /keep/{resourceName}/{id}`
 
-mongo client:
+mongodb 連線:
 
-可以使用 [MongoDB Compass](https://www.mongodb.com/products/compass) 連線
+使用 [MongoDB Compass](https://www.mongodb.com/products/compass) 連線
 host 位址為 `localhost:27017`
 
 資料庫名稱為 `fake-data`
