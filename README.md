@@ -1,5 +1,7 @@
 # fake-data
 
+[中文支援](/zh-tw)
+
 fake-data is an http api service that provides REST API for fake data return, temporary storage and NoSQL storage to facilitate testing during the development process of various applications that require http concatenation.
 
 
